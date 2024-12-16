@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет, я Владислав! 👋  
+**Fullstack Developer | React & TypeScript Enthusiast**
 
-<!--
-**KirioA/KirioA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Обо мне  
+Я опытный разработчик из Беларуси, специализирующийся на **веб-разработке** и **e-commerce платформах**. Активно использую **React**, **TypeScript**, **Node.js** и **MongoDB** для создания масштабируемых и интерактивных приложений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Технологический стек  
+- **Frontend**: React, Vite, TypeScript, Redux Toolkit, React Bootstrap  
+- **Backend**: Node.js, Express, MongoDB  
+- **Дополнительно**: Axios, Yandex Maps API, Framer Motion  
+- **Инструменты**: Git, VSCode, Postman  
+
+---
+
+### 📦 Проекты  
+1. **E-commerce платформа**:  
+   Полноценное приложение для интернет-магазина с личным кабинетом, корзиной и панелью администратора.  
+2. **Discord-ассистент**:  
+   Интерактивный бот с кастомными командами и API-интеграцией.  
+
+---
+
+### 🌟 Чему стремлюсь  
+- Развитие в сфере **fullstack-разработки** и участие в open-source проектах.  
+- Улучшение пользовательского опыта и создание оптимизированных интерфейсов.
+
+---
+
+### 📫 Контакты  
+- **Telegram**: [https://t.me/vlpuchok](https://t.me/vlpuchok)  
+- **Discord**: fokuslox  
+- **GitHub**: [https://github.com/KirioA](https://github.com/KirioA)
