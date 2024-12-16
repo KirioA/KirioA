@@ -1,36 +1,36 @@
-# Привет, я Владислав! 👋  
-**Fullstack Developer | React & TypeScript Enthusiast**
+# Hi, I'm Vladislav! 👋  
+**Trainee React Developer | React & TypeScript Enthusiast**
 
 ---
 
-### 🚀 Обо мне  
-Я опытный разработчик из Беларуси, специализирующийся на **веб-разработке** и **e-commerce платформах**. Активно использую **React**, **TypeScript**, **Node.js** и **MongoDB** для создания масштабируемых и интерактивных приложений.
+### 🚀 About Me  
+I'm an experienced developer from Belarus specializing in **web development** and **e-commerce platforms**. I actively use **React**, **TypeScript**, **Node.js**, and **MongoDB** to build scalable and interactive applications.
 
 ---
 
-### 💼 Технологический стек  
+### 💼 Tech Stack  
 - **Frontend**: React, Vite, TypeScript, Redux Toolkit, React Bootstrap  
 - **Backend**: Node.js, Express, MongoDB  
-- **Дополнительно**: Axios, Yandex Maps API, Framer Motion  
-- **Инструменты**: Git, VSCode, Postman  
+- **Additional**: Axios, Yandex Maps API, Framer Motion  
+- **Tools**: Git, VSCode, Postman  
 
 ---
 
-### 📦 Проекты  
-1. **E-commerce платформа**:  
-   Полноценное приложение для интернет-магазина с личным кабинетом, корзиной и панелью администратора.  
-2. **Discord-ассистент**:  
-   Интерактивный бот с кастомными командами и API-интеграцией.  
+### 📦 Projects  
+1. **E-commerce Platform**:  
+   A full-fledged online store application featuring user accounts, shopping cart, and admin panel.  
+2. **Discord Assistant**:  
+   An interactive bot with custom commands and API integration.  
 
 ---
 
-### 🌟 Чему стремлюсь  
-- Развитие в сфере **fullstack-разработки** и участие в open-source проектах.  
-- Улучшение пользовательского опыта и создание оптимизированных интерфейсов.
+### 🌟 Goals  
+- Advance in **fullstack development** and contribute to open-source projects.  
+- Enhance user experience and create optimized interfaces.
 
 ---
 
-### 📫 Контакты  
+### 📫 Contact  
 - **Telegram**: [https://t.me/vlpuchok](https://t.me/vlpuchok)  
 - **Discord**: fokuslox  
 - **GitHub**: [https://github.com/KirioA](https://github.com/KirioA)
